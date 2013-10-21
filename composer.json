@@ -1,0 +1,19 @@
+{
+    "name": "jeremeamia/functions",
+    "description": "Collection of PHP functions not included in PHP core",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jeremy Lindblom",
+            "email": "jeremeamia@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "files": [
+            "functions.php"
+        ]
+    }
+}
